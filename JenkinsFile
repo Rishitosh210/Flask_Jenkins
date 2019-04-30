@@ -5,7 +5,6 @@ pipeline {
            steps {
                echo 'Building..'
 	       sh 'pip install flask'
-             
            }
        }
        stage('Test') {
