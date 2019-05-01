@@ -8,9 +8,9 @@ def home():
 # <<<<<<< HEAD
     return "Hello, Rishi!"
 # =======
-@app.route("/")
-def home():
-    return "Hello, World!"
+# @app.route("/")
+# def home():
+#     return "Hello, World!"
 
     # return "Hello, World!"
 
